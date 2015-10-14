@@ -1,9 +1,9 @@
 ##  The Ugly
 
-- if formly does not do what you need, you need to fork
-  - forking makes updates hard
-  - instead try to contribute
-- cannot get the event when form has been rendered
-  - initial render can take long
-- with large forms rendering is slow
-  - initial render is slow, after that form is responsive
+- If formly does not do what you need, you need to fork
+  - Forking makes updates hard
+  - Instead try to contribute
+- Cannot get the event when form has been rendered
+  - Initial render can take long
+- With large forms rendering is slow
+  - Initial render is slow, after that form is responsive

@@ -1,9 +1,9 @@
 ##  My Background with Angular
 - "Full-Stack" Developer
-- started with
-  - angular-seeds
-  - generators (yeoman/slushjs)
-  - few MEAN-stack prototypes
-  - moved to using broserify
-- Two years with angularjs
+- Started with
+  - Angular-seeds
+  - Generators (yeoman/slushjs)
+  - Few MEAN-stack prototypes
+  - Moved to using browserify
+- Two years with AngularJS
 - Three projects done to production

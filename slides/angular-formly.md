@@ -1,8 +1,8 @@
 ##  What is angular-formly
-- Forms renered by javascript from json model
-  - can include javascript or expressions
-- premade templates for
-  - bootstrap
+- Forms rendered by javascript from json model
+  - Can include javascript or expressions
+- Premade templates for
+  - Bootstrap
   - LumX
   - Vanilla html
-  - ionic (mobile development)
+  - Ionic (mobile development)
