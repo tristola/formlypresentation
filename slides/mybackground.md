@@ -1,5 +1,5 @@
-##  My Background with angular
-- "Full-Stack" developer
+##  My Background with Angular
+- "Full-Stack" Developer
 - started with
   - angular-seeds
   - generators (yeoman/slushjs)

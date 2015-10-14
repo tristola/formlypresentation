@@ -3,4 +3,5 @@
 - not much technical expertise is required to change the model
 - Pre made templates - or do your own
 - you could make a form editor
-- you could possibly migrate to react-formly later
+- you could possibly migrate to other implementation later, since model is abstract
+  - like react-formly

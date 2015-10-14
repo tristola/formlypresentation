@@ -3,4 +3,4 @@
 
 - whoami: tristola
 - whatdoido: Software Engineer
-- github: tristola
+- github: https://github.com/tristola
